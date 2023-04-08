@@ -13,10 +13,10 @@
 2. Скачайте архив с приложением с [GitGub](https://github.com/PythonTrainer/3rd_place/tree/master/module_2_api).
 3. Разархивируйте архив.
 4. Откройте терминал и перейдите в папку с приложением.
-5. Создайте виртуальное окружение командой `python -m venv env`.
-6. Активируйте виртуальное окружение командой `source env/bin/activate` (для Linux/Mac) или `env\Scripts\activate` (для Windows).
-7. Установите зависимости командой `pip install -r requirements.txt`.
-8. Запустите приложение командой `python lesson_1.py`.
+5. Создайте виртуальное окружение командой ```python -m venv env```.
+6. Активируйте виртуальное окружение командой ```source env/bin/activate``` (для Linux/Mac) или ```env\Scripts\activate``` (для Windows).
+7. Установите зависимости командой ```pip install -r requirements.txt```.
+8. Запустите приложение командой ```python lesson_1.py```
 
 
 ### Важное замечание
