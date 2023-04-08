@@ -2,7 +2,7 @@ import requests
 
 
 def main():
-    payload1 = {'main_actor': '1', 'is_published': 'True'}
+    payload1 = {'T': '', 2: '', 'n': ''}
     print(requests.get(f"https://wttr.in/Сан-Франциско").text,
           requests.get(f"https://wttr.in/Сан-Франциско", params=payload1).text)
 
